@@ -10,8 +10,7 @@
 </ul>
 <h2 id="-dashboard-">📊 Dashboard</h2>
 <p>Você pode visualizar o dashboard interativo <a href="https://app.powerbi.com/reportEmbed?reportId=499accfc-eb39-4398-9141-2e57702ed43e&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb">aqui</a>.</p>
-<p><img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/caminho/para/sua/imagem_dashboard_spotify.jpg?raw=true" alt="Dashboard Global de Streams no Spotify"></p>
-<p><em>(Sugestão: Substitua a imagem por um GIF curto ou link para o dashboard publicado, se preferir não usar a imagem estática.)</em></p>
+<p><img src="https://github.com/marcelo-carv/Panorama-Global-de-Streams-no-Spotify/blob/main/Dashboard_Spotify.png"></p>
 <h2 id="-insights-chave-">🔍 Insights Chave</h2>
 <p>Alguns dos principais insights extraídos deste dashboard incluem:</p>
 <ul>
