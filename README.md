@@ -27,25 +27,3 @@
 <li><strong>Excel:</strong> Utilizado para tratamento inicial e organização dos dados brutos.</li>
 <li><strong>DAX (Data Analysis Expressions):</strong> Para criação de medidas e colunas calculadas, aprimorando a análise de dados.</li>
 </ul>
-<h2 id="-estrutura-do-reposit%C3%B3rio-">📁 Estrutura do Repositório</h2>
-<ul>
-<li><code>dados/</code>: Contém os arquivos de dados brutos ou tratados utilizados no dashboard (ex: <code>streams_spotify.xlsx</code>).</li>
-<li><code>dashboard/</code>: Arquivo <code>.pbix</code> do Power BI (ex: <code>Panorama_Spotify.pbix</code>).</li>
-<li><code>imagens/</code>: Capturas de tela ou GIFs do dashboard.</li>
-<li><code>README.md</code>: Este arquivo.</li>
-</ul>
-<h2 id="-como-usar-visualizar-">🚀 Como Usar/Visualizar</h2>
-<ol>
-<li><strong>Clone o repositório:</strong>
-<pre><code>git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-</code></pre>
-</li>
-<li><strong>Abra o arquivo .pbix:</strong>
-Certifique-se de ter o Power BI Desktop instalado. Abra o arquivo <code>Panorama_Spotify.pbix</code> localizado na pasta <code>dashboard/</code>.</li>
-<li><strong>Explore o Dashboard:</strong>
-Interaja com os filtros e gráficos para descobrir seus próprios insights.</li>
-</ol>
-<h2 id="-contribui%C3%A7%C3%B5es-">🤝 Contribuições</h2>
-<p>Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar algum problema, sinta-se à vontade para abrir uma <em>issue</em> ou enviar um <em>pull request</em>.</p>
-<h2 id="-licen%C3%A7a-">📄 Licença</h2>
-<p>Este projeto está sob a licença <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
